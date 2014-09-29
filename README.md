@@ -69,3 +69,6 @@ Configuration files can be added to switch modes:
 `bundle exec jekyll serve -w --config _config.yml,_config.development.yml`
 
 `bundle exec jekyll serve -w --config _config.yml`
+
+
+ [This data is mirrored and can be queried via API here](https://www.exversion.com/data/collection/view/54297c8c5600a)
